@@ -53,3 +53,14 @@ ex. <html> </html>
 
 2. Unpaired Tag--> A tag which is not required both opening and closing tag.
 ex. <br>, <hr>, <!DOCTYPE HTML>
+
+FORMATING TAGS
+Used to format the text based content for better look and feel.
+1. Physical tag
+Tag which are focuses only on Physical appearance of text.
+ex-<b>=bold, <i>=Italic, <u>=Underline
+
+2.Logical tag
+tag are used to give some logical/semantic value to the text.
+these tag conveys the purpose & meaning 
+ex-strong, code, em
