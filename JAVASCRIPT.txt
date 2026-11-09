@@ -101,3 +101,15 @@ More complex structures built from classes.
 2. Array 
 3.Function
 
+OPERATORS.
+Operators are symbols/functions, that performs a specific operation on 
+one/more operands/pre-defined symbols used to perform some specific task.
+
+TYPES.
+1. Unary Operators=> Works on single Operand.
+2. Arithmetic Operators=> Perform Basic Mathematical Operations.
+3. Assignmet Operators=> Assign values to Variables.
+4. Comparison Operators=> Gives result in true/false.
+5. Bitwise Operators=> Perform bit-level operations.
+
+
