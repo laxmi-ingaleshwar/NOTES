@@ -64,3 +64,16 @@ ex-<b>=bold, <i>=Italic, <u>=Underline
 tag are used to give some logical/semantic value to the text.
 these tag conveys the purpose & meaning 
 ex-strong, code, em
+
+ELEMENTS
+Elements is  A Combination of opening tag & closing tag along with content.
+Void element-> element which does not have any closing tag.
+
+TYPES OF ELEMENTS
+1.Block level element
+Always start on a new line, occupies the full available width of it's parent container.
+ex= All the heading tag, div tag
+
+2.Inline Level Elements
+It doesn't start on a new line, occupies only the content width.
+ex= <b>, <i>, <span> => we cannot provide height and width for these element
