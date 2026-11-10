@@ -113,3 +113,16 @@ TYPES.
 5. Bitwise Operators=> Perform bit-level operations.
 
 
+DECISION MAKING STATEMENTS.
+Helps the program decide what to do based on the conditions.
+
+1. if-statement 
+2. if-else statement
+3. else-if ladder
+
+LOOPING STATEMENTS
+way to repeat a block of code multiple times based on a condition, Helps in doing repetitive tasks.
+
+1. For loop=> used when we know how many times we want the code to run.
+2. While loop=> runs as long as condition is true. 
+3. Do-while loop=> similar to while loop but it runs atleast once.
