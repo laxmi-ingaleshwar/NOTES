@@ -77,3 +77,43 @@ ex= All the heading tag, div tag
 2.Inline Level Elements
 It doesn't start on a new line, occupies only the content width.
 ex= <b>, <i>, <span> => we cannot provide height and width for these element
+
+Semantic Tags
+The tag itself defines Meaning& purpose of the content to the browser.
+ex= <header>, <article>, <main>, <section>
+
+Non-semantic Tags
+The tag itself doesn't defines meaning & Purpose of the content to the browser.
+ex=<div>, <span>
+
+HTML LIST=> used to specify list of informations/items.
+
+TYPES
+1.ORDERED LIST(ol) 
+The list which can follow the order is known ordered list.
+all the list items are marked with numbers by default, so it's known as "Number list"
+we can change the order with the help of type attribute.
+<ol>
+    <li> HTML </li>
+    <li> CSS </li>
+    <li> JS </li>
+</ol>
+
+2.UNORDERED LIST(ul)
+A list which cannot follow any order is called as unordered list.
+Default type is "disc" also called as "Bullet list"
+<ul>
+    <li> COFFEE </li>
+    <li> TEA </li>
+    <li> MILK </li>
+</ul>
+
+3. DESCRIPTION LIST(dl)
+This is rarely used list, used to list out items with description <dl>
+<dt>=Description Term, <dd>=Description Data
+<dl>
+    <dt> CSS </dt>
+    <dd> Cascending Style Sheet </dd>
+    <dt> HTML </dt>
+    <dd> Hyper text markup language </dd>
+</dl>
