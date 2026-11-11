@@ -126,3 +126,18 @@ way to repeat a block of code multiple times based on a condition, Helps in doin
 1. For loop=> used when we know how many times we want the code to run.
 2. While loop=> runs as long as condition is true. 
 3. Do-while loop=> similar to while loop but it runs atleast once.
+
+FUNCTION 
+Function is a block of code written to perform a specific task.
+it is executed when it is called / invoked.
+function helps to avoid repetation of code & make it reusable.
+
+function functionName(parameters){
+    //function body
+    // code to be executed
+}
+ex=
+function print(){
+    console.log('good morning')
+}
+print()
