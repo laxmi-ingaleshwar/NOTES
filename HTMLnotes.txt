@@ -99,6 +99,7 @@ we can change the order with the help of type attribute.
     <li> JS </li>
 </ol>
 
+
 2.UNORDERED LIST(ul)
 A list which cannot follow any order is called as unordered list.
 Default type is "disc" also called as "Bullet list"
@@ -107,6 +108,7 @@ Default type is "disc" also called as "Bullet list"
     <li> TEA </li>
     <li> MILK </li>
 </ul>
+
 
 3. DESCRIPTION LIST(dl)
 This is rarely used list, used to list out items with description <dl>
@@ -117,3 +119,33 @@ This is rarely used list, used to list out items with description <dl>
     <dt> HTML </dt>
     <dd> Hyper text markup language </dd>
 </dl>
+
+
+4.Nested list
+The list which is present inside another list is called Nested list.
+It may be the combination of ordered, unordered, & description list.
+
+<ol>
+    <li> Front end skills </li>
+    <ul type="disc">
+        <li> HTML </li>
+        <li> CSS </li>
+        <li> JS </li>
+    </ul>
+    <li> Backend Skills </li>
+    <ul type="square"> 
+        <li> JAVA </li> 
+        <li> PYTHON </li>
+    </ul>
+</ol>
+
+
+
+ATTRIBUTES
+Attributes are special keywords which are provided in the opening tag of the element, 
+it will provide additional information about element.
+1.id=> uniquely identify an element, one element should have one id only
+2.class=> used to group similar elements, one element can have multiple classes.
+3.style=> used to give inline CSS
+4.title=> used to provide the tooltip. which is extra information to the user, once he hovers the cursor over the element.
+5.type=> specifies what kind of input field it is.

@@ -136,6 +136,7 @@ function functionName(parameters){
     //function body
     // code to be executed
 }
+
 ex=
 function print(){
     console.log('good morning')
