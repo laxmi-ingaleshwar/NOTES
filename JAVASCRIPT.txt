@@ -142,3 +142,16 @@ function print(){
     console.log('good morning')
 }
 print()
+
+Function Call statement=> Part of the program where function is called/executed.
+To call a function , we simply use it's function name & followed by paranthesis().
+
+PARAMETER=> is a variable defined in a functions definition.
+ARGUMENT=> is the actual value that is passed to a function when it is called.
+
+TYPES OF FUNCTIONS 
+1.Named Function
+2.Anonymous Function 
+3.Arrow Function 
+4.Call Back Function 
+5.HOF(Higher Order Function)
