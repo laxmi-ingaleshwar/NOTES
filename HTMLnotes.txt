@@ -148,4 +148,4 @@ it will provide additional information about element.
 2.class=> used to group similar elements, one element can have multiple classes.
 3.style=> used to give inline CSS
 4.title=> used to provide the tooltip. which is extra information to the user, once he hovers the cursor over the element.
-5.type=> specifies what kind of input field it is.
+5.type=> specifies the what kind of input field it is. 
