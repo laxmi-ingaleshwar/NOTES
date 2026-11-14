@@ -150,8 +150,53 @@ PARAMETER=> is a variable defined in a functions definition.
 ARGUMENT=> is the actual value that is passed to a function when it is called.
 
 TYPES OF FUNCTIONS 
-1.Named Function
-2.Anonymous Function 
-3.Arrow Function 
+1.Named Function()
+function that has a functionname() & it is also called function declaration.
+function greet(name){
+    console.log('welcome'+ name)
+}greet (name)
+
+
+2.Anonymous Function()
+function that has no name, so, we cannot call it,
+because of it we create one variable, inside that variable we store the function.
+ex
+let bhoot = function(){
+    console.log('Hello im Bhoot')
+}
+bhoot()
+
+
+3.Arrow Function()
+It is a shorter way of writing functions. called as fat arrow function.
+ex
+let add = (a,b)=>{
+    console.log(a+b)
+} 
+add(30,50)
+
+
 4.Call Back Function 
+It is a function used to pass another function as an argument called callback function.
+ex
+function add(){
+    console.log(30+20)
+}
+function Task(callback){
+    callback();
+}
+Task add()
+
+
+
 5.HOF(Higher Order Function)
+HOF is a function which accepts a callback function as parameters.
+
+ex 
+function Task(){
+    return function(){
+        console.log('Thank you')
+    }
+}
+let result = Task()
+result()
