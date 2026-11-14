@@ -149,3 +149,19 @@ it will provide additional information about element.
 3.style=> used to give inline CSS
 4.title=> used to provide the tooltip. which is extra information to the user, once he hovers the cursor over the element.
 5.type=> specifies the what kind of input field it is. 
+
+
+MULTIMEDIA CONCEPT:
+Multimedia is the combination of different types of media such as text, images, audio, video, animation
+& graphics to present information to an interactive & attractive way.
+
+In HTML, Multimedia elements allow us to add images, sounds & videos to a web page.
+
+MAIN TYPES OF MULTIMEDIA
+
+1.TEXT => Written Information
+2.IMAGE => Pictures, Photographers, diagram etc.
+3.AUDIO => Sound, Music, Voice Recording etc.
+4.VIDEO => Moving Visual Content, Often with Sound
+5.IFRAMES => Adding Frame(web page inside webpage) 
+
