@@ -165,3 +165,36 @@ MAIN TYPES OF MULTIMEDIA
 4.VIDEO => Moving Visual Content, Often with Sound
 5.IFRAMES => Adding Frame(web page inside webpage) 
 
+
+IMAGE IN HTML
+An image is a visual representation such as photograph, drawing, logo , diagram/ icon.
+HTML uses the The <img> tag to display an image on a webpage.
+The <img> tag is an empty element, meaning it does not have a closing </img> tag.
+
+IMPORTANT ATTRIBUTES.
+scr=> Specifies the path/url of the image to be displayed.
+alt=> provides alternative text if the image cannot be displayed. It also helps screen readers.
+width=> Specifies the width of the image.
+height=> specifies the height of the image.
+title=> provides additional information when the user hovers over the image.
+
+
+VIDEO IN HTML
+The video element is used to insert external media & play the video content directly on a webpage.
+HTML5 provides the <video> tag for displaying videos.
+The <source> element specifies the video file & its format.
+
+IMPORTANT ATTRIBUTES.
+controls=> displays video controls such as play, pause, volume & progress bar.
+Autoplay=> Automatically starts the video.
+muted=> Starts the video without sound.
+loops=> Repeats the video continuously.
+width=> specifies the width of the video player.
+height=> Specifies the height of the video player.
+poster=> specifies an image displayed before the video starts.
+preload=> specifies how the browser should load the video.
+
+It accepts three values.
+1.auto 
+2.metadata 
+3.none 
