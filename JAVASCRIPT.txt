@@ -200,3 +200,24 @@ function Task(){
 }
 let result = Task()
 result()
+
+
+STRING 
+String is a collection of Characters & it is immutable.
+WAYS TO CREATE STRINGS.
+1. By using Single quote ''
+let name = 'rani'
+
+2. By using double quote ""
+let name = "rani"
+
+3. By using backtick(``) / (template literal)
+let name = `rani`
+
+LENGTH
+String.length 
+
+STRING STATIC METHODS.
+1.String.fromCharCode()
+2.String.fromCodePoint()
+3.String.raw()
