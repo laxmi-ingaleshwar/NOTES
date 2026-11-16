@@ -198,3 +198,23 @@ It accepts three values.
 1.auto 
 2.metadata 
 3.none 
+
+
+AUDIO IN HTML
+The audio element is used to add & play sound/audio files on a webpage.
+HTML5 provides the <audio> tag for embedding audio.
+
+IMPORTANT ATTRIBUTES.
+controls=> displays audio controls such as play, pause, volume & progress bar.
+Autoplay=> Automatically starts the audio.
+muted=> Starts the audio without sound.
+loops=> Repeats the audio continuously.
+Preload=> specifies how the browser should load the audio.
+
+
+HTML FORMS 
+html forms are used to take user inputs.
+with the help of forms we can collect the data from the all users at once.
+to provide forms in webpage we have to use <form> tag.
+
+

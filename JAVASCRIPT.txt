@@ -221,3 +221,4 @@ STRING STATIC METHODS.
 1.String.fromCharCode()
 2.String.fromCodePoint()
 3.String.raw()
+
