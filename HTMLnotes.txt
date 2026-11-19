@@ -217,4 +217,27 @@ html forms are used to take user inputs.
 with the help of forms we can collect the data from the all users at once.
 to provide forms in webpage we have to use <form> tag.
 
+FORM HAS 2 ATTRIBUTES
+1.action attribute=> 
+* used to provide server reference to which data has to be send.
+2.method attribute=> 
+* used to provide the way in which data should be send.
+
+there are two ways 
+1.get 
+In get method data will be exposed in url.
+It is secure way to send sensitive data.
+
+2.post 
+In post method data will not be exposed.
+It is secure way to send sensitive data.
+
+<form> TAGS
+<input> used to take input/information from user.
+<center> used horizantally center-allign text, images & other elements.
+<fieldset> used to group related form elements together inside a box.
+<placeholder> gives a short hint / example text inside an input box.
+<label> used to give a name/description to a form input field.
+Radio button => allows the user to select only one option from a group of choices.
+Check boxes => to select one/more options from a list.
 
